@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="module" defer src="./script.js"></script>
+    <title>Acoli quiz</title>
+  </head>
+  <body>
+    <section class="container">
+      <div class="game-area">
+        <div class="message">Choose a quiz</div>
+        <select name="quizzes" id="quizzess" class="quizzes">
+          <option value="" disabled selected>Select a quiz</option>
+          <option value="greetings">Greetings</option>
+          <option value="counting">Counting</option>
+        </select>
+        <div class="show-numbers"></div>
+        <div class="question"></div>
+        <div class="answers"></div>
+      </div>
+      <button class="start">Start</button>
+      <button class="next">Next</button>
+      <button class="play-again">Play again</button>
+    </section>
+  </body>
+</html>

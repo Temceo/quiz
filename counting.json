@@ -1,0 +1,92 @@
+[
+  {
+    "question": "How do you say 'one' in Acoli?",
+    "answers": [
+      { "text": "Adek", "correct": false },
+      { "text": "Abiro", "correct": false },
+      { "text": "Acel", "correct": true },
+      { "text": "Apar", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you say 'two' in Acoli?",
+    "answers": [
+      { "text": "Agwen", "correct": false },
+      { "text": "Aryo", "correct": true },
+      { "text": "Acel", "correct": false },
+      { "text": "Abiro", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you say 'three' in Acoli?",
+    "answers": [
+      { "text": "Agwen", "correct": false },
+      { "text": "Aryo", "correct": false },
+      { "text": "Acel", "correct": false },
+      { "text": "Adek", "correct": true }
+    ]
+  },
+  {
+    "question": "How do you say 'four' in Acoli?",
+    "answers": [
+      { "text": "Agwen", "correct": true },
+      { "text": "Abicel", "correct": false },
+      { "text": "Acel", "correct": false },
+      { "text": "Abogwen", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you say 'five' in Acoli?",
+    "answers": [
+      { "text": "Aboro", "correct": false },
+      { "text": "Abic", "correct": true },
+      { "text": "Abiro", "correct": false },
+      { "text": "Abogwen", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you say 'six' in Acoli?",
+    "answers": [
+      { "text": "Agwen", "correct": false },
+      { "text": "Aboro", "correct": false },
+      { "text": "Abicel", "correct": true },
+      { "text": "Acel", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you say 'seven' in Acoli?",
+    "answers": [
+      { "text": "Agwen", "correct": false },
+      { "text": "Abiro", "correct": true },
+      { "text": "Abic", "correct": false },
+      { "text": "Aryo", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you say 'eight' in Acoli?",
+    "answers": [
+      { "text": "Abic", "correct": false },
+      { "text": "Abiro", "correct": false },
+      { "text": "Aboro", "correct": true },
+      { "text": "Aryo", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you say 'nine' in Acoli?",
+    "answers": [
+      { "text": "Abogwen", "correct": true },
+      { "text": "Aboro", "correct": false },
+      { "text": "Apar", "correct": false },
+      { "text": "Aryo", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you say 'ten' in Acoli?",
+    "answers": [
+      { "text": "Abogwen", "correct": false },
+      { "text": "Aboro", "correct": false },
+      { "text": "Apar", "correct": true },
+      { "text": "Aryo", "correct": false }
+    ]
+  }
+]

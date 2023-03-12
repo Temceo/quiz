@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto+Slab&display=swap");
+
+/* GENERIC CSS */
+
+:root {
+  /* fonts */
+  --sans: "Roboto Slab", sans-serif;
+  --mono: "Roboto Mono", mono;
+  /* Colours */
+  --white: #fff;
+  --black: #000;
+  --light-brown: #e6dfd9;
+  --navy-blue: #012030;
+  --light-blue: hsl(200, 100%, 50%);
+  --shade: hsl(200, 100%, 75%);
+  --dark-shade: rgba(0, 0, 0, 0.3);
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--sans);
+  font-size: 0.8em;
+}
+
+.question {
+  margin: 0.8em;
+}
+
+.container {
+  max-width: 300px;
+  margin-inline: auto;
+
+  margin-top: 1rem;
+}
+
+.answer-btn {
+  display: block;
+  background-color: aliceblue;
+  border: none;
+  border-radius: 5px;
+  margin-top: 6em;
+  margin: 0.5em;
+  padding: 0.5em;
+  width: 10em;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+}
+
+.start,
+.next,
+.play-again {
+  display: none;
+  border: none;
+  border-radius: 5px;
+  padding: 0.3em 0.7em;
+
+  /* background-color: #10454f; */
+}
+
+.start,
+.next {
+  margin-left: 3em;
+}
+
+.play-again {
+  margin-left: 1em;
+}
+
+label {
+  margin-left: 0.9em;
+}
+
+.message {
+  margin-left: 0.7em;
+  font-size: 1.2em;
+}
+
+select {
+  margin: 1em;
+  height: 2em;
+  width: 10em;
+  background-color: aliceblue;
+}

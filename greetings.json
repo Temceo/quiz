@@ -1,0 +1,65 @@
+[
+  {
+    "question": "How do you say 'how are you?' in Acoli?",
+    "answers": [
+      { "text": "Kop pe?", "correct": false },
+      { "text": "Atye maber?", "correct": false },
+      { "text": "Kop ango?", "correct": true },
+      { "text": "Itye kwene?", "correct": false }
+    ]
+  },
+
+  {
+    "question": "How do you respond to a greeting in Acoli?",
+    "answers": [
+      { "text": "Ping ber", "correct": false },
+      { "text": "Tin ber", "correct": false },
+      { "text": "Kop dwong", "correct": false },
+      { "text": "Kop pe", "correct": true }
+    ]
+  },
+  {
+    "question": "What is the word for 'me' in Acoli?",
+    "answers": [
+      { "text": "An / Koma", "correct": true },
+      { "text": "Kalam / Dako", "correct": false },
+      { "text": "Wun", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you say 'good morning' in Acoli?",
+    "answers": [
+      { "text": "Ibuto maber?", "correct": true },
+      { "text": "Iwoto maber", "correct": false },
+      { "text": "Koma ber?", "correct": false },
+      { "text": "Cawa peke?", "correct": false }
+    ]
+  },
+  {
+    "question": "How do you say 'good afternoon' in Acoli?",
+    "answers": [
+      { "text": "Ibuto maber?", "correct": false },
+      { "text": "Iwoto maber?", "correct": false },
+      { "text": "Iri maber?", "correct": true },
+      { "text": "Iwoto marac?", "correct": false }
+    ]
+  },
+  {
+    "question": "What is a respectful term for an elder person?",
+    "answers": [
+      { "text": "Ladit", "correct": true },
+      { "text": "Latin", "correct": false },
+      { "text": "Lacor", "correct": false },
+      { "text": "Yat", "correct": false }
+    ]
+  },
+  {
+    "question": "What is a respectful term for an elder lady?",
+    "answers": [
+      { "text": "Maro", "correct": false },
+      { "text": "Mego", "correct": true },
+      { "text": "Won", "correct": false },
+      { "text": "Gang", "correct": false }
+    ]
+  }
+]
